@@ -14,3 +14,16 @@ cmd:git checkout -b newton
 To take latest pull from other branch to current branch 
 cmd:git pull origin newton
 ===========================================
+In the company:
+1.git clone url 
+2.git branch  - please check whether it is master/main 
+3.git pull origin master/main 
+(or)
+3.git checkout master/main 
+4.git pull origin master/main
+5.git checkout -b own-branch 
+6.git commit -m "code"
+7.git push origin own-branch 
+===================================
+
+
