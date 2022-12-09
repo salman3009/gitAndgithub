@@ -1,0 +1,12 @@
+Git And github usefull commands:
+1.git clone url 
+2.git add .
+3.git commit -m "code"
+4.git push
+========================
+To check the latest staged code:
+cmd:git status 
+To check the current branch:
+cmd:git branch
+We need to create our own branch:
+cmd:git checkout -b newton
