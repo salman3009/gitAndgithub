@@ -10,3 +10,7 @@ To check the current branch:
 cmd:git branch
 We need to create our own branch:
 cmd:git checkout -b newton
+===========================
+To take latest pull from other branch to current branch 
+cmd:git pull origin newton
+===========================================
