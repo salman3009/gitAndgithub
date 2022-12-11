@@ -1,0 +1,18 @@
+Git and Github:
+What is Git:
+//It is version control
+//It will help to take latest code from common server 
+//It will help to push the code to common server 
+//It will help to resolve conflicts issue 
+//It will help to setup new code in new machine.
+//it is command line interface.
+//we can use any tool with git.
+example:
+cmd:git clone http://Github.com/salman3009/git
+What is Github:
+1.it is an repository to store your code.
+2.it is mainly for coding platform.
+3.it is an tool.
+Example:
+gitlab,bigbucket
+=============================================
