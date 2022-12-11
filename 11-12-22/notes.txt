@@ -1,2 +1,2 @@
 How to download the existing repository?
-1.
+1.git clone https://github.com/salman3009/gitAndgithub.git
